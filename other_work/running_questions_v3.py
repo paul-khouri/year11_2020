@@ -1,16 +1,23 @@
 from questions import get_questions
 
 GAME_QS=get_questions() 
-
+# a function to run a question take a dictionary as an argument
 def run_question(Q):
+     '''  takes the question dictionary
+          checks user response
+          returns none
+     '''
+     # get question key from dictionary and ask user to answer
     user_answer = input(Q["question"])
+    # check user answer is same as answer key in dictionary
     if user_answer==Q["answer"]:
         print("Great work")
     elif user_answer == "q":
         return "q"
+     # or print wrong answer message
     else:
         print("Better luck next time")
-    return None
+   
 
 
 def main_game():
