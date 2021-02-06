@@ -186,29 +186,28 @@ The program then prints out a summary of the order, a total and then adds on GST
 \end{figure}
 
 
-\subsubsection{Planning}
-For the writing and planning:
+\subsubsection{Planning and Testing}
+Much of the planning work for a program is done on paper (and will need to be photographed and placed in a document)\\
+The testing is done on the computer and is documented.\\\\
+A basic idea of the process is given below (but we will expand on this as things go)
 \begin{itemize}
-	\item \textbf{Decomposition}
-Please write down your task decomposition.\\
-(This is breaking the task down into smaller pieces that will be combined to make the finished program)\\
-See examples below.
-\item \textbf{Version Log}\\
-Your version log should go here.  Annotated screenshots are a good idea at this point
-\item \textbf{Component Trialling}\\
-Show that you have trialled each component here.  \\
-You should also include notes that justify the major decisions you made.
+	\item \textbf{Breaking the problem down into components (or sub- problems)}:\\
+	This means identifying the key things the program needs to do.
+
+\item \textbf{Writing Pseudo code}\\
+This means sketching out in writing or diagrams how the code is going to be put together. (the writing should communicate how the code is going to work, but does not need to be the exact language) 
+\item \textbf{Building and Trialling}\\
+Build the program in stages and trial each stage as you go.
 \item \textbf{Assembled Outcome Testing}\\
-Please show testing for your assembled outcome below. \\
-This should include a test plan followed by screenshot proof
+Once you have got the program made, there needs to be some formal testing of it. \\
+Errors need to be identified 
 \item \textbf{Usability Testing}\\
-Try the program out on someone else and make notes or video etc.
-Write a list of things improvements which need to be made based on your usability testing.  Then write down what you changed.
+Ideally the program should be tested on some other user other than yourself
 \item \textbf{General Evaluation:}\\
-How good is may program? What can I do to improve it?
+A basic reflection
 \end{itemize}
 
-
+\newpage
 \textbf{Examples of Component Planning}\\
 \begin{figure} [!h]
 	\centering
@@ -218,11 +217,12 @@ How good is may program? What can I do to improve it?
 	\centering
 	\includegraphics[width=12cm]{iterative_processes/simple_planning_2.pdf}
 \end{figure}
+\newpage
 \textbf{Basic Idea of Testing}
 When testing we consider
 \begin{itemize}
 	\item Expected inputs (these are inputs we would normally expect the user to input).\\
-	Does the porgram give the right outputs with the given expected inputs.
+	Does the program give the right outputs with the given expected inputs.
 	\item Boundary inputs (are there maximum or minimum value that the user can enter)\\
 	What happens at these \underline{boundaries} (and if we go over them)
 	\item Unexpected Inputs  (these are character entries that we are not expecting)\\
@@ -258,25 +258,11 @@ Testing should have some kind of plan and documentation of the results.\\
 \end{itemize}
 \newpage
 
-\begin{figure} [!h]
-	\centering
-	\includegraphics[width=8cm]{iterative_processes/Components_detailed_p1.pdf}
-\end{figure}
-\begin{figure} [!h]
-	\centering
-	\includegraphics[width=8cm]{iterative_processes/Components_detailed_p2.pdf}
-\end{figure}
 
 
-\begin{figure} [!h]
-	\centering
-	\includegraphics[width=8cm]{iterative_processes/Components_detailed_p3.pdf}
-\end{figure}
-
-\newpage
 
 
-\lstinputlisting[language=Python, caption = Dinner Order Program]{trinket/dinner_order_basic.py}
+
 
 \newpage
 \subsection{Strawberry picking}
@@ -295,8 +281,7 @@ Design a program that calculates the amount to be charged given a certain number
 	\caption*{An example of Strawberries program run}
 \end{figure}
 \newpage
-\lstinputlisting[language=Python, caption=Python example
-]{strawberry_picking.py}
+
 
 \newpage
 \section{Conditions}
@@ -362,18 +347,37 @@ Python has a large number of libraries that extend the functionality of the prog
 \newpage
 \section{Program using conditions and random numbers}
 \subsection{Guess greater , less or equal.}
-
-Write a program that :\\
+\begin{itemize}
+	\item Create a program that :\\
 Generates a random number between two integers.
 \begin{itemize}
 	\item It calculates the middle value of the two integers.
 	\item It then asks the user to choose whether the random  number is Less than the middle number or More than or Equal to the middle number.
 	\item It then gives feedback, saying whether they have won or lost
 \end{itemize}
+\item{Planning and Testing}
+\begin{itemize}
+	\item Break the problem into components (sub problems)
+	\item Write a Psuedo code outline
+	\item When the program is made, create and complete a full test table
+	\item Introduce a small modification to the program to help you test it.
+\end{itemize}
 
-%\lstset{style=mystyle_big}
-\lstinputlisting[language=Python, caption=Python example]{trinket/random_choose_L_E_H.py}
-%\lstset{style=mystyle}
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=13cm]{screen_shots/random_choose_L_E_H.png}
+	\caption*{An example of greater , less , equal  program run}
+\end{figure}
+
+\end{itemize}
+\newpage
+
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=17cm]{iterative_processes/Greater_Less_Equal_planning.pdf}
+	\caption*{Psuedo code and test grid}
+\end{figure}
+
 \newpage
 \section{Loops}
 Often we want the the program to repeat some kind of operation or to repeatedly to run a section of code.\\
@@ -410,7 +414,25 @@ Consider:
 \item Guess greater less or equal prints out total score of wins at the end of the program
 \item Guess greater less or equal allows the user to bet each time and feeds back on winnings/losses
 \end{itemize}
+
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=15cm]{iterative_processes/random_L_E_G_withbet.png}
+	\caption*{Greater less equal, with loop and betting}
+\end{figure}
+\newpage
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=17cm]{iterative_processes/random_L_E_G_withbet.pdf}
+	\caption*{Psuedo code: Greater less equal, with loop and betting}
+\end{figure}
+
+\newpage
 \subsection{Higher Lower Game}
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=17cm]{screen_shots/higher_lower.png}
+\end{figure}
 \subsubsection{Program}
 
 \textbf{Scenario:}\\
@@ -421,84 +443,98 @@ You have a younger family member who loves the ‘higher / lower’ game so you 
 	\item Ask for the user’s name (and address them by their name)
 	\item Generate a ‘secret’ number between 1 and 100 and then ask the user to guess the number.
 	\item Tell the user if their guess is ‘too high’ or ‘too low’.
+	\item Then asks them to guess again (until they find the number)
 	\item If the user correctly guesses the number, the game should congratulate them.
+	\item Tell the user how many goes it took them to guess the number.
+	\item If they don’t guess the number in 10 goes, they should be told that they have lost the game and the mystery number should be revealed.
 \end{itemize}
-If they don’t guess the number in 10 goes, they should be told that they have lost the game and the mystery number should be revealed.\\
-\hrule\vspace{0.5cm}
-\textbf{Developing the game:}\\
-At the end of each game, the user should be asked if they would like to play again
 
-For the ones below, the problems will need to be worked out in a separate small program, before they are implemented in the next version:
-\begin{itemize}
-	\item Allow the user to choose the lowest and highest number that will be used as the secret number
-	\item 	this should be validated, so it is probably a good idea that you have a validation function,
-	\item to develop this properly you should be able to validate it so the lower number is less than the high number.
-	\item Ideally the game should be set up so that users can’t guess the same *wrong* number twice.
-	\item This will require collecting a list of the guessed numbers.
-\end{itemize}
 \hrule\vspace{0.5cm}
-\textbf{Variations (recommended)}:
-Please consider adding in the following features.  You should develop (and test) these as part of the problem decomposition.
+
+
+\textbf{Improvements:\\ (do not worry about these until you have completed the main requirements)}:\\
+Create small test programs to work out how to solve the problem before you include them in your next program version.
 \begin{itemize}
-	\item Allow the user to choose the lowest and highest number that will be used as the secret number
+	\item Allow the user to choose the lowest and highest number that will be used to generate the secret number between.
+	\item Ideally the game should be set up so that users can’t guess the same ``wrong'' number twice ()This will require collecting a list of the guessed numbers).
 	\item Either allow the user to choose the number of guesses or set a sensible limit based on the difference between the highest and lowest number.
-	\item Ask the user how many rounds they would like to play in a given game.  Choose a sensible maximum for this and justify your decision
-	\item Keep track of the number of rounds played and the user’s scores
-	\item At the end of the given number of rounds, tell the user what their best, worst and average scores were.  Ask them if they wish to play again.
+	\item Keep track of the number of rounds played and the user’s scores.
+	\item Improve the \textbf{usability} of the game by \textbf{validating} the user entry to make sure that it is appropriate.
 \end{itemize}
 \hrule\vspace{0.5cm}
 
 
-\subsubsection{Planning}
-\textbf{Task:}\\
-As well as a working program , you need to provide evidence showing how the problem has been decomposed,  how the components have been developed and trialled, and of how they have been assembled and tested to create a final, working outcome.\\
-
-Decompose the problem (write down the decomposition on the template supplied)\\
-For each part of the problem, write (and test) each piece of code.  \\
-Before you write a piece of code, you should generate a quick test plan so that you can confirm that the code works correctly. \\
-Place your test plan and testing evidence on the supplied template.\\
-Combine your code into a fully working program\\
-Test and debug your program to ensure that it works for expected, boundary and unexpected values.\\
-Ask a friend / parent to play your game.  \\
-Watch them as they do this and make note of any changes that could be made to make the game easier to use\\
-Make the changes identified in the previous step\\
-Retest your game to ensure that it still works correctly\\
-
+\subsubsection{Planning, Developing, Testing}
 \begin{itemize}
-	\item Outline / Decomposition:\\
-	Break the problem down into parts. \\
-	Clearly communicate the things you will need to be able to do, to make the program work.\\
-	Provide clear evidence of the Decomposition (diagrams or lists)
-	\item Build relevant test files (version 0 files) to solve/explore coding problems.  
-	\item Component Testing (happens after the Decomposition and at any other relevant time)\\
-	Show that you have tested each component. \\
-	You should have a test plan (how do you know it is working properly) and then screenshot proof for each component.  \\
-	You should also include notes that justify the major decisions you made.
-	\item Version Log\\
-	Log your different versions HigherLower-v1, HigherLower-v2, etc. (each of these is an iteration)
-	Include a brief description of what that have achieved.
-	\item Version Testing\\
-	Please show testing for your assembled outcome below.  
-	This should include a test plan followed by screenshot proof
-	Clearly communicate how you can verify that the version is working properly.
-	\item Usability Testing\\
-	Try the program out on someone else and make notes or video etc.
-	Write a list of things improvements which need to be made based on your usability testing.  Then write down what you changed.
-	\item Post Usability Test…\\
-	Show that your post usability testing program works correctly
-	Social and End User Considerations…
-	\item General Evaluation:\\
-	How good is may program? What can I do to improve it?
-	Repeat the relevant parts of the above process
+	\item \textbf{On paper} you need to break the big problem of making the program into a set of smaller sub-problems
+\begin{itemize}
+	\item If a problem looks tricky or there may be more than one way to solve it, you should make small test programs
 \end{itemize}
+\item Sketch out psuedo code for the main things you are going to make\\ ( ideally before you make it :) )
+\item Don't create the program all in one go, build the simplest \textbf{version} you can. 
+\begin{itemize}
+	\item  Then test it and then plan and  build the next version. 
+	\item After each version you should make some simple notes about what works, what could be improved , what the aim for the next stage is.
+	\item Then plan, build and test the next \textbf{version}
+	\item Repeat this process to \textbf{iteratively} develop the program.
+\end{itemize}
+
+\end{itemize}
+%\textbf{Task:}\\
+%As well as a working program , you need to provide evidence showing how the problem has been decomposed,  how the components have been developed and trialled, and of how they have been assembled and tested to create a final, working outcome.\\
+%
+%Decompose the problem (write down the decomposition on the template supplied)\\
+%For each part of the problem, write (and test) each piece of code.  \\
+%Before you write a piece of code, you should generate a quick test plan so that you can confirm that the code works correctly. \\
+%Place your test plan and testing evidence on the supplied template.\\
+%Combine your code into a fully working program\\
+%Test and debug your program to ensure that it works for expected, boundary and unexpected values.\\
+%Ask a friend / parent to play your game.  \\
+%Watch them as they do this and make note of any changes that could be made to make the game easier to use\\
+%Make the changes identified in the previous step\\
+%Retest your game to ensure that it still works correctly\\
+%
+%\begin{itemize}
+%	\item Outline / Decomposition:\\
+%	Break the problem down into parts. \\
+%	Clearly communicate the things you will need to be able to do, to make the program work.\\
+%	Provide clear evidence of the Decomposition (diagrams or lists)
+%	\item Build relevant test files (version 0 files) to solve/explore coding problems.  
+%	\item Component Testing (happens after the Decomposition and at any other relevant time)\\
+%	Show that you have tested each component. \\
+%	You should have a test plan (how do you know it is working properly) and then screenshot proof for each component.  \\
+%	You should also include notes that justify the major decisions you made.
+%	\item Version Log\\
+%	Log your different versions HigherLower-v1, HigherLower-v2, etc. (each of these is an iteration)
+%	Include a brief description of what that have achieved.
+%	\item Version Testing\\
+%	Please show testing for your assembled outcome below.  
+%	This should include a test plan followed by screenshot proof
+%	Clearly communicate how you can verify that the version is working properly.
+%	\item Usability Testing\\
+%	Try the program out on someone else and make notes or video etc.
+%	Write a list of things improvements which need to be made based on your usability testing.  Then write down what you changed.
+%	\item Post Usability Test…\\
+%	Show that your post usability testing program works correctly
+%	Social and End User Considerations…
+%	\item General Evaluation:\\
+%	How good is may program? What can I do to improve it?
+%	Repeat the relevant parts of the above process
+%\end{itemize}
 \newpage
-
-
-\lstinputlisting[language=Python, caption=Python example]{higher_lower.py}
 \begin{figure} [!h]
 	\centering
-	\includegraphics[width=17cm]{screen_shots/higher_lower.png}
+	\includegraphics[width=17cm]{iterative_processes/higherlowerplanning-1.pdf}
 \end{figure}
+
+\newpage
+\begin{figure} [!h]
+	\centering
+	\includegraphics[width=17cm]{iterative_processes/higherlowerplanning-2.pdf}
+\end{figure}
+
+
+
 \newpage
 \section{Validation}
 When a user is making an input they may make an error and enter an \textbf{invalid} input.\\
@@ -749,6 +785,17 @@ Here are some variations you could consider…
 \lstinputlisting[language=Python, caption=Python example]{addition_question.py}
 \lstinputlisting[language=Python, caption=Python example]{function_tests.py}
 \newpage
+\section{Code Examples}
+\subsection{Dinner Order}
+\lstinputlisting[language=Python, caption = Dinner Order Program]{trinket/dinner_order_basic.py}
+\subsection{Strawberry Picking}
+\lstinputlisting[language=Python, caption=Python example]{strawberry_picking.py}
+\subsection{Guess greater, less or equal}
+%\lstset{style=mystyle_big}
+\lstinputlisting[language=Python, caption=Python example]{trinket/random_choose_L_E_H.py}
+%\lstset{style=mystyle}
+\subsection{Higher Lower Game}
+\lstinputlisting[language=Python, caption=Python example]{higher_lower.py}
 \section{Testing}
 \newpage
 \section{Dictionaries}

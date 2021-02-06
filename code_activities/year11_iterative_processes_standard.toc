@@ -1,0 +1,26 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Dinner Order - Basic Program - Design and Build}{4}{section.2}%
+\contentsline {subsubsection}{\numberline {2.0.1}Planning}{4}{subsubsection.2.0.1}%
+\contentsline {subsection}{\numberline {2.1}Strawberry picking}{10}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Conditions - Activities}{12}{section.3}%
+\contentsline {section}{\numberline {4}Guess greater , less or equal.}{13}{section.4}%
+\contentsline {section}{\numberline {5}Loop Activities - improving previously made programs}{16}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Higher Lower Game}{18}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}Program}{18}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}Planning}{19}{subsubsection.5.1.2}%
+\contentsline {section}{\numberline {6}Validation}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Integer Validation}{24}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}String Validation}{27}{subsection.6.2}%
+\contentsline {section}{\numberline {7}Lists}{29}{section.7}%
+\contentsline {section}{\numberline {8}Lists and Loops}{30}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Creating and modifying a class group}{30}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Lucky Unicorn Game}{31}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}Program}{31}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}Planning: Iterative Processes}{32}{subsubsection.8.2.2}%
+\contentsline {section}{\numberline {9}Functions}{39}{section.9}%
+\contentsline {section}{\numberline {10}Testing}{40}{section.10}%
+\contentsline {section}{\numberline {11}Dictionaries}{41}{section.11}%
+\contentsline {section}{\numberline {12}Coffee}{43}{section.12}%
+\contentsline {section}{\numberline {13}Tests}{55}{section.13}%
+\contentsline {section}{\numberline {14}Strings}{58}{section.14}%
+\contentsline {section}{\numberline {15}Objects}{58}{section.15}%

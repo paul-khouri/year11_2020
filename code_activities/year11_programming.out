@@ -5,7 +5,7 @@
 \BOOKMARK [1][-]{section.4}{Commenting}{}% 5
 \BOOKMARK [1][-]{section.5}{Casting}{}% 6
 \BOOKMARK [1][-]{section.6}{Dinner Order - Basic Program - Design and Build}{}% 7
-\BOOKMARK [2][-]{subsubsection.6.0.1}{Planning}{section.6}% 8
+\BOOKMARK [2][-]{subsubsection.6.0.1}{Planning and Testing}{section.6}% 8
 \BOOKMARK [2][-]{subsection.6.1}{Strawberry picking}{section.6}% 9
 \BOOKMARK [1][-]{section.7}{Conditions}{}% 10
 \BOOKMARK [2][-]{subsection.7.1}{Activities}{section.7}% 11
@@ -16,7 +16,7 @@
 \BOOKMARK [2][-]{subsection.10.1}{Activities - improving previously made programs}{section.10}% 16
 \BOOKMARK [2][-]{subsection.10.2}{Higher Lower Game}{section.10}% 17
 \BOOKMARK [3][-]{subsubsection.10.2.1}{Program}{subsection.10.2}% 18
-\BOOKMARK [3][-]{subsubsection.10.2.2}{Planning}{subsection.10.2}% 19
+\BOOKMARK [3][-]{subsubsection.10.2.2}{Planning, Developing, Testing}{subsection.10.2}% 19
 \BOOKMARK [1][-]{section.11}{Validation}{}% 20
 \BOOKMARK [2][-]{subsection.11.1}{Integer Validation}{section.11}% 21
 \BOOKMARK [2][-]{subsection.11.2}{String Validation}{section.11}% 22
@@ -27,9 +27,14 @@
 \BOOKMARK [3][-]{subsubsection.13.2.1}{Program}{subsection.13.2}% 27
 \BOOKMARK [3][-]{subsubsection.13.2.2}{Planning: Iterative Processes}{subsection.13.2}% 28
 \BOOKMARK [1][-]{section.14}{Functions}{}% 29
-\BOOKMARK [1][-]{section.15}{Testing}{}% 30
-\BOOKMARK [1][-]{section.16}{Dictionaries}{}% 31
-\BOOKMARK [1][-]{section.17}{Coffee}{}% 32
-\BOOKMARK [1][-]{section.18}{Tests}{}% 33
-\BOOKMARK [1][-]{section.19}{Strings}{}% 34
-\BOOKMARK [1][-]{section.20}{Objects}{}% 35
+\BOOKMARK [1][-]{section.15}{Code Examples}{}% 30
+\BOOKMARK [2][-]{subsection.15.1}{Dinner Order}{section.15}% 31
+\BOOKMARK [2][-]{subsection.15.2}{Strawberry Picking}{section.15}% 32
+\BOOKMARK [2][-]{subsection.15.3}{Guess greater, less or equal}{section.15}% 33
+\BOOKMARK [2][-]{subsection.15.4}{Higher Lower Game}{section.15}% 34
+\BOOKMARK [1][-]{section.16}{Testing}{}% 35
+\BOOKMARK [1][-]{section.17}{Dictionaries}{}% 36
+\BOOKMARK [1][-]{section.18}{Coffee}{}% 37
+\BOOKMARK [1][-]{section.19}{Tests}{}% 38
+\BOOKMARK [1][-]{section.20}{Strings}{}% 39
+\BOOKMARK [1][-]{section.21}{Objects}{}% 40
