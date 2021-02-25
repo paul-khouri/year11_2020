@@ -17,24 +17,24 @@
 \contentsline {subsection}{\numberline {10.2}Higher Lower Game}{25}{subsection.10.2}%
 \contentsline {subsubsection}{\numberline {10.2.1}Program}{25}{subsubsection.10.2.1}%
 \contentsline {subsubsection}{\numberline {10.2.2}Planning, Developing, Testing}{26}{subsubsection.10.2.2}%
-\contentsline {section}{\numberline {11}Validation}{29}{section.11}%
-\contentsline {subsection}{\numberline {11.1}Integer Validation}{30}{subsection.11.1}%
-\contentsline {subsection}{\numberline {11.2}String Validation}{33}{subsection.11.2}%
-\contentsline {section}{\numberline {12}Lists}{35}{section.12}%
-\contentsline {section}{\numberline {13}Lists and Loops}{36}{section.13}%
-\contentsline {subsection}{\numberline {13.1}Creating and modifying a class group}{36}{subsection.13.1}%
-\contentsline {subsection}{\numberline {13.2}Lucky Unicorn Game}{37}{subsection.13.2}%
-\contentsline {subsubsection}{\numberline {13.2.1}Program}{37}{subsubsection.13.2.1}%
-\contentsline {subsubsection}{\numberline {13.2.2}Planning: Iterative Processes}{38}{subsubsection.13.2.2}%
-\contentsline {section}{\numberline {14}Functions}{45}{section.14}%
-\contentsline {section}{\numberline {15}Code Examples}{46}{section.15}%
-\contentsline {subsection}{\numberline {15.1}Dinner Order}{46}{subsection.15.1}%
-\contentsline {subsection}{\numberline {15.2}Strawberry Picking}{47}{subsection.15.2}%
-\contentsline {subsection}{\numberline {15.3}Guess greater, less or equal}{47}{subsection.15.3}%
-\contentsline {subsection}{\numberline {15.4}Higher Lower Game}{48}{subsection.15.4}%
-\contentsline {section}{\numberline {16}Testing}{49}{section.16}%
-\contentsline {section}{\numberline {17}Dictionaries}{50}{section.17}%
-\contentsline {section}{\numberline {18}Coffee}{52}{section.18}%
-\contentsline {section}{\numberline {19}Tests}{64}{section.19}%
-\contentsline {section}{\numberline {20}Strings}{67}{section.20}%
-\contentsline {section}{\numberline {21}Objects}{67}{section.21}%
+\contentsline {section}{\numberline {11}Functions}{29}{section.11}%
+\contentsline {section}{\numberline {12}Validation}{31}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Integer Validation}{32}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}String Validation}{35}{subsection.12.2}%
+\contentsline {section}{\numberline {13}Lists}{37}{section.13}%
+\contentsline {section}{\numberline {14}Lists and Loops}{38}{section.14}%
+\contentsline {subsection}{\numberline {14.1}Creating and modifying a class group}{38}{subsection.14.1}%
+\contentsline {subsection}{\numberline {14.2}Lucky Unicorn Game}{39}{subsection.14.2}%
+\contentsline {subsubsection}{\numberline {14.2.1}Program}{39}{subsubsection.14.2.1}%
+\contentsline {subsubsection}{\numberline {14.2.2}Planning: Iterative Processes}{40}{subsubsection.14.2.2}%
+\contentsline {section}{\numberline {15}Code Examples}{47}{section.15}%
+\contentsline {subsection}{\numberline {15.1}Dinner Order}{47}{subsection.15.1}%
+\contentsline {subsection}{\numberline {15.2}Strawberry Picking}{48}{subsection.15.2}%
+\contentsline {subsection}{\numberline {15.3}Guess greater, less or equal}{48}{subsection.15.3}%
+\contentsline {subsection}{\numberline {15.4}Higher Lower Game}{49}{subsection.15.4}%
+\contentsline {section}{\numberline {16}Testing}{50}{section.16}%
+\contentsline {section}{\numberline {17}Dictionaries}{51}{section.17}%
+\contentsline {section}{\numberline {18}Coffee}{53}{section.18}%
+\contentsline {section}{\numberline {19}Tests}{65}{section.19}%
+\contentsline {section}{\numberline {20}Strings}{68}{section.20}%
+\contentsline {section}{\numberline {21}Objects}{68}{section.21}%

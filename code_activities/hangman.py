@@ -6,7 +6,7 @@ def pic(c):
     if c >=2:
         print(" "*30+"   |     |")
     if c >=3:
-        print(" "*30+"  ( )    |")
+        print(" "*30+"  ()    |")
     if c >= 4:
         print(" "*30+"   |     |")
     if c >= 5:
