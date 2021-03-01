@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.5.28)  24 FEB 2021 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.5.28)  25 FEB 2021 17:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,14 +1033,14 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
 (./first_class-1.py)
-<screen_shots/first_class-1.png, id=228, 938.50626pt x 163.61125pt>
+<screen_shots/first_class-1.png, id=233, 938.50626pt x 163.61125pt>
 File: screen_shots/first_class-1.png Graphic file (type png)
 <use screen_shots/first_class-1.png>
 Package pdftex.def Info: screen_shots/first_class-1.png  used on input line 109
 .
 (pdftex.def)             Requested size: 512.1496pt x 89.28244pt.
  (./math_operations.py)
-<screen_shots/math_operations.png, id=230, 963.6pt x 149.55875pt>
+<screen_shots/math_operations.png, id=235, 963.6pt x 149.55875pt>
 File: screen_shots/math_operations.png Graphic file (type png)
 <use screen_shots/math_operations.png>
 Package pdftex.def Info: screen_shots/math_operations.png  used on input line 1
@@ -1053,14 +1053,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--127
 
 [4 <./screen_shots/first_class-1.png> <./screen_shots/math_operations.png>]
 (./first_class.py)
-<screen_shots/first_class.png, id=258, 567.11874pt x 136.51pt>
+<screen_shots/first_class.png, id=263, 567.11874pt x 136.51pt>
 File: screen_shots/first_class.png Graphic file (type png)
 <use screen_shots/first_class.png>
 Package pdftex.def Info: screen_shots/first_class.png  used on input line 131.
 (pdftex.def)             Requested size: 512.1496pt x 123.28903pt.
  [5 <./screen_shots/first_class.png>]
 (./input_format_output.py)
-<screen_shots/input_format_output.png, id=275, 1009.7725pt x 119.44624pt>
+<screen_shots/input_format_output.png, id=280, 1009.7725pt x 119.44624pt>
 File: screen_shots/input_format_output.png Graphic file (type png)
 <use screen_shots/input_format_output.png>
 Package pdftex.def Info: screen_shots/input_format_output.png  used on input li
@@ -1073,13 +1073,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--155
 
 (./formatting_examples.py) [6 <./screen_shots/input_format_output.png>]
 (./formatting_examples_comments.py) [7] (./casting.py)
-<screen_shots/casting.png, id=326, 816.04875pt x 264.99pt>
+<screen_shots/casting.png, id=331, 816.04875pt x 264.99pt>
 File: screen_shots/casting.png Graphic file (type png)
 <use screen_shots/casting.png>
 Package pdftex.def Info: screen_shots/casting.png  used on input line 173.
 (pdftex.def)             Requested size: 512.1496pt x 166.3138pt.
  [8 <./screen_shots/casting.png>]
-<screen_shots/diner.png, id=351, 1339.0025pt x 1148.29pt>
+<screen_shots/diner.png, id=356, 1339.0025pt x 1148.29pt>
 File: screen_shots/diner.png Graphic file (type png)
 <use screen_shots/diner.png>
 Package pdftex.def Info: screen_shots/diner.png  used on input line 184.
@@ -1099,7 +1099,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 190--194
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./iterative_processes/simple
 _planning_1.pdf): PDF inclusion: found PDF version <1.6>, but at most version <
 1.5> allowed
-<iterative_processes/simple_planning_1.pdf, id=362, 597.6729pt x 844.83629pt>
+<iterative_processes/simple_planning_1.pdf, id=367, 597.6729pt x 844.83629pt>
 File: iterative_processes/simple_planning_1.pdf Graphic file (type pdf)
 <use iterative_processes/simple_planning_1.pdf>
 Package pdftex.def Info: iterative_processes/simple_planning_1.pdf  used on inp
@@ -1110,7 +1110,7 @@ ut line 214.
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./iterative_processes/simple
 _planning_2.pdf): PDF inclusion: found PDF version <1.6>, but at most version <
 1.5> allowed
-<iterative_processes/simple_planning_2.pdf, id=363, 597.6729pt x 239.57504pt>
+<iterative_processes/simple_planning_2.pdf, id=368, 597.6729pt x 239.57504pt>
 File: iterative_processes/simple_planning_2.pdf Graphic file (type pdf)
 <use iterative_processes/simple_planning_2.pdf>
 Package pdftex.def Info: iterative_processes/simple_planning_2.pdf  used on inp
@@ -1122,13 +1122,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 232--233
 
  []
 
-<iterative_processes/Testing.pdf, id=401, 597.50829pt x 330.12335pt>
+<iterative_processes/Testing.pdf, id=406, 597.50829pt x 330.12335pt>
 File: iterative_processes/Testing.pdf Graphic file (type pdf)
 <use iterative_processes/Testing.pdf>
 Package pdftex.def Info: iterative_processes/Testing.pdf  used on input line 23
 6.
 (pdftex.def)             Requested size: 455.24408pt x 251.52097pt.
-<iterative_processes/Testing.png, id=402, 2489.3pt x 1823.81375pt>
+<iterative_processes/Testing.png, id=407, 2489.3pt x 1823.81375pt>
 File: iterative_processes/Testing.png Graphic file (type png)
 <use iterative_processes/Testing.png>
 Package pdftex.def Info: iterative_processes/Testing.png  used on input line 24
@@ -1143,7 +1143,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 270--273
 
  []
 
-<screen_shots/strawberries.png, id=440, 1001.7425pt x 931.48pt>
+<screen_shots/strawberries.png, id=445, 1001.7425pt x 931.48pt>
 File: screen_shots/strawberries.png Graphic file (type png)
 <use screen_shots/strawberries.png>
 Package pdftex.def Info: screen_shots/strawberries.png  used on input line 280.
@@ -1158,20 +1158,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 288--293
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./screen_shots/conditions.pd
 f): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<screen_shots/conditions.pdf, id=452, 561.31705pt x 799.98875pt>
+<screen_shots/conditions.pdf, id=457, 561.31705pt x 799.98875pt>
 File: screen_shots/conditions.pdf Graphic file (type pdf)
 <use screen_shots/conditions.pdf>
 Package pdftex.def Info: screen_shots/conditions.pdf  used on input line 315.
 (pdftex.def)             Requested size: 483.69684pt x 689.3563pt.
 [16 <./screen_shots/conditions.pdf>] [17] (./randomness.py) [18]
-<screen_shots/random_choose_L_E_H.png, id=503, 938.50626pt x 497.86pt>
+<screen_shots/random_choose_L_E_H.png, id=508, 938.50626pt x 497.86pt>
 File: screen_shots/random_choose_L_E_H.png Graphic file (type png)
 <use screen_shots/random_choose_L_E_H.png>
 Package pdftex.def Info: screen_shots/random_choose_L_E_H.png  used on input li
 ne 368.
 (pdftex.def)             Requested size: 369.88582pt x 196.21573pt.
  [19 <./screen_shots/random_choose_L_E_H.png>]
-<iterative_processes/Greater_Less_Equal_planning.pdf, id=511, 597.50829pt x 845
+<iterative_processes/Greater_Less_Equal_planning.pdf, id=516, 597.50829pt x 845
 .0471pt>
 File: iterative_processes/Greater_Less_Equal_planning.pdf Graphic file (type pd
 f)
@@ -1185,14 +1185,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 383--386
  []
 
 (./loop_counter.py)
-<screen_shots/loop_counter.png, id=829, 1031.855pt x 300.12125pt>
+<screen_shots/loop_counter.png, id=834, 1031.855pt x 300.12125pt>
 File: screen_shots/loop_counter.png Graphic file (type png)
 <use screen_shots/loop_counter.png>
 Package pdftex.def Info: screen_shots/loop_counter.png  used on input line 391.
 
 (pdftex.def)             Requested size: 483.69684pt x 140.68607pt.
  (./loop_condition.py)
-<screen_shots/loop_condition.png, id=830, 956.57375pt x 230.8625pt>
+<screen_shots/loop_condition.png, id=835, 956.57375pt x 230.8625pt>
 File: screen_shots/loop_condition.png Graphic file (type png)
 <use screen_shots/loop_condition.png>
 Package pdftex.def Info: screen_shots/loop_condition.png  used on input line 39
@@ -1203,7 +1203,7 @@ Package pdftex.def Info: screen_shots/loop_condition.png  used on input line 39
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [21 <./screen_shots/loop_counter.png>] (./loop_continue.py)
-<screen_shots/loop_continue.png, id=855, 1017.8025pt x 466.74374pt>
+<screen_shots/loop_continue.png, id=860, 1017.8025pt x 466.74374pt>
 File: screen_shots/loop_continue.png Graphic file (type png)
 <use screen_shots/loop_continue.png>
 Package pdftex.def Info: screen_shots/loop_continue.png  used on input line 404
@@ -1220,7 +1220,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 408--413
 
  []
 
-<iterative_processes/random_L_E_G_withbet.png, id=881, 1020.81375pt x 993.7125p
+<iterative_processes/random_L_E_G_withbet.png, id=886, 1020.81375pt x 993.7125p
 t>
 File: iterative_processes/random_L_E_G_withbet.png Graphic file (type png)
 <use iterative_processes/random_L_E_G_withbet.png>
@@ -1228,7 +1228,7 @@ Package pdftex.def Info: iterative_processes/random_L_E_G_withbet.png  used on
 input line 420.
 (pdftex.def)             Requested size: 426.79134pt x 415.46104pt.
 [23 <./iterative_processes/random_L_E_G_withbet.png>]
-<iterative_processes/random_L_E_G_withbet.pdf, id=889, 597.50829pt x 845.0471pt
+<iterative_processes/random_L_E_G_withbet.pdf, id=894, 597.50829pt x 845.0471pt
 >
 File: iterative_processes/random_L_E_G_withbet.pdf Graphic file (type pdf)
 <use iterative_processes/random_L_E_G_withbet.pdf>
@@ -1236,7 +1236,7 @@ Package pdftex.def Info: iterative_processes/random_L_E_G_withbet.pdf  used on
 input line 426.
 (pdftex.def)             Requested size: 483.69684pt x 684.08469pt.
  [24 <./iterative_processes/random_L_E_G_withbet.pdf>]
-<screen_shots/higher_lower.png, id=1094, 939.51pt x 374.39874pt>
+<screen_shots/higher_lower.png, id=1099, 939.51pt x 374.39874pt>
 File: screen_shots/higher_lower.png Graphic file (type png)
 <use screen_shots/higher_lower.png>
 Package pdftex.def Info: screen_shots/higher_lower.png  used on input line 434.
@@ -1248,7 +1248,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 438--440
  []
 
 [25 <./screen_shots/higher_lower.png>] [26]
-<iterative_processes/higherlowerplanning-1.pdf, id=1106, 597.432pt x 844.83629p
+<iterative_processes/higherlowerplanning-1.pdf, id=1111, 597.432pt x 844.83629p
 t>
 File: iterative_processes/higherlowerplanning-1.pdf Graphic file (type pdf)
 <use iterative_processes/higherlowerplanning-1.pdf>
@@ -1256,7 +1256,7 @@ Package pdftex.def Info: iterative_processes/higherlowerplanning-1.pdf  used on
  input line 527.
 (pdftex.def)             Requested size: 483.69684pt x 684.01715pt.
  [27 <./iterative_processes/higherlowerplanning-1.pdf>]
-<iterative_processes/higherlowerplanning-2.pdf, id=1117, 597.432pt x 844.83629p
+<iterative_processes/higherlowerplanning-2.pdf, id=1122, 597.432pt x 844.83629p
 t>
 File: iterative_processes/higherlowerplanning-2.pdf Graphic file (type pdf)
 <use iterative_processes/higherlowerplanning-2.pdf>
@@ -1269,19 +1269,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 540--542
  []
 
 (./maths_functions.py [29])
-<screen_shots/maths_functions_cap.png, id=1161, 711.65875pt x 302.12875pt>
+<screen_shots/maths_functions_cap.png, id=1166, 711.65875pt x 302.12875pt>
 File: screen_shots/maths_functions_cap.png Graphic file (type png)
 <use screen_shots/maths_functions_cap.png>
 Package pdftex.def Info: screen_shots/maths_functions_cap.png  used on input li
 ne 552.
 (pdftex.def)             Requested size: 426.79134pt x 181.18643pt.
  [30 <./screen_shots/maths_functions_cap.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 570--575
+Underfull \hbox (badness 10000) in paragraph at lines 569--570
 
  []
 
 [31]
-Underfull \hbox (badness 10000) in paragraph at lines 582--584
+Underfull \hbox (badness 10000) in paragraph at lines 586--591
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 598--600
 
  []
 
@@ -1292,214 +1297,189 @@ LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ))
-<screen_shots/validation_int_1.png, id=1197, 1048.91875pt x 204.765pt>
+<screen_shots/validation_int_1.png, id=1206, 1048.91875pt x 204.765pt>
 File: screen_shots/validation_int_1.png Graphic file (type png)
 <use screen_shots/validation_int_1.png>
 Package pdftex.def Info: screen_shots/validation_int_1.png  used on input line 
-594.
+610.
 (pdftex.def)             Requested size: 483.69684pt x 94.42424pt.
 
 (./validation_int_2.py)
-<screen_shots/validation_int_2.png, id=1198, 971.63pt x 122.4575pt>
+<screen_shots/validation_int_2.png, id=1207, 971.63pt x 122.4575pt>
 File: screen_shots/validation_int_2.png Graphic file (type png)
 <use screen_shots/validation_int_2.png>
 Package pdftex.def Info: screen_shots/validation_int_2.png  used on input line 
-601.
+617.
 (pdftex.def)             Requested size: 483.69684pt x 60.96138pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[32 <./screen_shots/validation_int_1.png>] (./validation_int_3.py)
-<screen_shots/validation_int_3.png, id=1225, 967.615pt x 230.8625pt>
+[33 <./screen_shots/validation_int_1.png>] (./validation_int_3.py)
+<screen_shots/validation_int_3.png, id=1233, 967.615pt x 230.8625pt>
 File: screen_shots/validation_int_3.png Graphic file (type png)
 <use screen_shots/validation_int_3.png>
 Package pdftex.def Info: screen_shots/validation_int_3.png  used on input line 
-609.
+625.
 (pdftex.def)             Requested size: 483.69684pt x 115.4063pt.
-<screen_shots/validation_int_3_neg.png, id=1226, 967.615pt x 123.46124pt>
+<screen_shots/validation_int_3_neg.png, id=1234, 967.615pt x 123.46124pt>
 File: screen_shots/validation_int_3_neg.png Graphic file (type png)
 <use screen_shots/validation_int_3_neg.png>
 Package pdftex.def Info: screen_shots/validation_int_3_neg.png  used on input l
-ine 615.
+ine 631.
 (pdftex.def)             Requested size: 483.69684pt x 61.71727pt.
- [33 <./screen_shots/validation_int_2.png> <./screen_shots/validation_int_3.png
+ [34 <./screen_shots/validation_int_2.png> <./screen_shots/validation_int_3.png
 > <./screen_shots/validation_int_3_neg.png>] (./validation_int_4.py)
-<screen_shots/validation_int_4.png, id=1255, 968.61874pt x 290.08376pt>
+<screen_shots/validation_int_4.png, id=1263, 968.61874pt x 290.08376pt>
 File: screen_shots/validation_int_4.png Graphic file (type png)
 <use screen_shots/validation_int_4.png>
 Package pdftex.def Info: screen_shots/validation_int_4.png  used on input line 
-622.
+638.
 (pdftex.def)             Requested size: 483.69684pt x 144.86003pt.
- [34 <./screen_shots/validation_int_4.png>] (./validation_name.py)
-<screen_shots/validation_name.png, id=1285, 968.61874pt x 212.795pt>
+ [35 <./screen_shots/validation_int_4.png>] (./validation_name.py)
+<screen_shots/validation_name.png, id=1293, 968.61874pt x 212.795pt>
 File: screen_shots/validation_name.png Graphic file (type png)
 <use screen_shots/validation_name.png>
 Package pdftex.def Info: screen_shots/validation_name.png  used on input line 6
-32.
+48.
 (pdftex.def)             Requested size: 483.69684pt x 106.2641pt.
- (./validation_name_1.py [35 <./screen_shots/validation_name.png>])
-<screen_shots/validation_name_1.png, id=1321, 998.73125pt x 232.87pt>
+ (./validation_name_1.py [36 <./screen_shots/validation_name.png>])
+<screen_shots/validation_name_1.png, id=1328, 998.73125pt x 232.87pt>
 File: screen_shots/validation_name_1.png Graphic file (type png)
 <use screen_shots/validation_name_1.png>
 Package pdftex.def Info: screen_shots/validation_name_1.png  used on input line
- 641.
+ 657.
 (pdftex.def)             Requested size: 483.69684pt x 112.7819pt.
- [36 <./screen_shots/validation_name_1.png>]
-(./list_base.py) (./list_base_1.py [37])
-Underfull \hbox (badness 10000) in paragraph at lines 689--692
+ [37 <./screen_shots/validation_name_1.png>]
+(./list_base.py) (./list_base_1.py [38])
+Underfull \hbox (badness 10000) in paragraph at lines 705--708
 
  []
 
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 710--711
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 726--727
 
  []
 
-[39] [40]
+[40] [41]
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./iterative_processes/Lucky_
 Unicorn_Sub_problems_1.pdf): PDF inclusion: found PDF version <1.6>, but at mos
 t version <1.5> allowed
-<iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf, id=1432, 845.0471pt x 59
+<iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf, id=1435, 845.0471pt x 59
 7.50829pt>
 File: iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf Graphic file (type p
 df)
 <use iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf>
 Package pdftex.def Info: iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf  
-used on input line 752.
+used on input line 768.
 (pdftex.def)             Requested size: 426.79134pt x 301.77121pt.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./iterative_processes/Lucky_
 Unicorn_Sub_problems_2.pdf): PDF inclusion: found PDF version <1.6>, but at mos
 t version <1.5> allowed
-<iterative_processes/Lucky_Unicorn_Sub_problems_2.pdf, id=1433, 845.0471pt x 59
+<iterative_processes/Lucky_Unicorn_Sub_problems_2.pdf, id=1436, 845.0471pt x 59
 7.50829pt>
 File: iterative_processes/Lucky_Unicorn_Sub_problems_2.pdf Graphic file (type p
 df)
 <use iterative_processes/Lucky_Unicorn_Sub_problems_2.pdf>
 Package pdftex.def Info: iterative_processes/Lucky_Unicorn_Sub_problems_2.pdf  
-used on input line 758.
+used on input line 774.
 (pdftex.def)             Requested size: 426.79134pt x 301.77121pt.
-[41 <./iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf> <./iterative_proce
+[42 <./iterative_processes/Lucky_Unicorn_Sub_problems_1.pdf> <./iterative_proce
 sses/Lucky_Unicorn_Sub_problems_2.pdf>]
-<iterative_processes/sub_problem_trials.png, id=1715, 603.4545pt x 811.833pt>
+<iterative_processes/sub_problem_trials.png, id=1718, 603.4545pt x 811.833pt>
 File: iterative_processes/sub_problem_trials.png Graphic file (type png)
 <use iterative_processes/sub_problem_trials.png>
 Package pdftex.def Info: iterative_processes/sub_problem_trials.png  used on in
-put line 766.
+put line 782.
 (pdftex.def)             Requested size: 483.69684pt x 650.7308pt.
- [42 <./iterative_processes/sub_problem_trials.png (PNG copy)>]
-<iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf, id=1721, 845.0471pt x 
+ [43 <./iterative_processes/sub_problem_trials.png (PNG copy)>]
+<iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf, id=1725, 845.0471pt x 
 597.50829pt>
 File: iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf Graphic file (type
  pdf)
 <use iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf>
 Package pdftex.def Info: iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf
-  used on input line 774.
+  used on input line 790.
 (pdftex.def)             Requested size: 426.79134pt x 301.77121pt.
 
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./iterative_processes/Lucky_
 Unicorn_Sub_problems_3.pdf): PDF inclusion: found PDF version <1.6>, but at mos
 t version <1.5> allowed
-<iterative_processes/Lucky_Unicorn_Sub_problems_3.pdf, id=1722, 845.0471pt x 59
+<iterative_processes/Lucky_Unicorn_Sub_problems_3.pdf, id=1726, 845.0471pt x 59
 7.50829pt>
 File: iterative_processes/Lucky_Unicorn_Sub_problems_3.pdf Graphic file (type p
 df)
 <use iterative_processes/Lucky_Unicorn_Sub_problems_3.pdf>
 Package pdftex.def Info: iterative_processes/Lucky_Unicorn_Sub_problems_3.pdf  
-used on input line 780.
+used on input line 796.
 (pdftex.def)             Requested size: 426.79134pt x 301.77121pt.
-[43 <./iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf> <./iterative_pro
+[44 <./iterative_processes/Lucky_Unicorn_Sub_problems_2_a.pdf> <./iterative_pro
 cesses/Lucky_Unicorn_Sub_problems_3.pdf>]
-<iterative_processes/sub_problem_trials_2.png, id=2000, 597.6729pt x 845.0772pt
+<iterative_processes/sub_problem_trials_2.png, id=2003, 597.6729pt x 845.0772pt
 >
 File: iterative_processes/sub_problem_trials_2.png Graphic file (type png)
 <use iterative_processes/sub_problem_trials_2.png>
 Package pdftex.def Info: iterative_processes/sub_problem_trials_2.png  used on 
-input line 787.
+input line 803.
 (pdftex.def)             Requested size: 483.69684pt x 683.92853pt.
- [44 <./iterative_processes/sub_problem_trials_2.png (PNG copy)>]
-<iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf, id=2006, 845.0471pt x 
+ [45 <./iterative_processes/sub_problem_trials_2.png (PNG copy)>]
+<iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf, id=2009, 845.0471pt x 
 597.50829pt>
 File: iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf Graphic file (type
  pdf)
 <use iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf>
 Package pdftex.def Info: iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf
-  used on input line 795.
+  used on input line 811.
 (pdftex.def)             Requested size: 426.79134pt x 301.77121pt.
- [45 <./iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf>] (./luckyunicor
-n/v1_lucky_unicorn.py) [46]
-(./trinket/dinner_order_basic.py) [47] (./strawberry_picking.py)
-(./trinket/random_choose_L_E_H.py [48]) (./higher_lower.py [49]) [50]
-(./dictionaries.py [51]) (./tommi.py) [52] (./class_randomletters_function.py)
-(./buildingastring.py [53]) (./buildingastring_v2.py) (./buildingastring_v3.py
-[54]) (./class_randomletters_testfor6.py [55])
-(./class_randomletters_function_c_list.py [56])
-(./class_randomletters_function_list.py [57] [58])
-(./class_randomletters_testfor7.py [59]) (./class_randomletters_testfor8.py
-[60]) (./class_randomletters.py) (./class_randomletters_function_c.py [61])
-[62] (./class_randomletters_to_distribution.py [63]) [64] (./v0_random.py)
-(./checkinlist.py) (./dictionary_test.py [65] [66]) (./format_test.py)
-(./hangman.py [67]) (./string_tests.py) (./counting_string.py)
-(./classes_objects.py [68]) (./classforglobals.py [69]) (./class_quiz.py
-[70]) [71]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 869.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 869.
+ [46 <./iterative_processes/Lucky_Unicorn_Sub_problems_3_a.pdf>] (./luckyunicor
+n/v1_lucky_unicorn.py) [47]
+(./trinket/dinner_order_basic.py) [48] (./strawberry_picking.py)
+(./trinket/random_choose_L_E_H.py [49]) (./higher_lower.py [50]) [51]
+(./dictionaries.py [52]) (./tommi.py) [53] (./class_randomletters_function.py)
+(./buildingastring.py [54]) (./buildingastring_v2.py) (./buildingastring_v3.py
+[55]) (./class_randomletters_testfor6.py [56])
+(./class_randomletters_function_c_list.py [57])
+(./class_randomletters_function_list.py [58] [59])
+(./class_randomletters_testfor7.py [60]) (./class_randomletters_testfor8.py
+[61]) (./class_randomletters.py) (./class_randomletters_function_c.py [62])
+[63] (./class_randomletters_to_distribution.py [64]) [65] (./v0_random.py)
+(./checkinlist.py) (./dictionary_test.py [66] [67]) (./format_test.py)
+(./hangman.py [68]) (./string_tests.py) (./counting_string.py)
+(./classes_objects.py [69]) (./classforglobals.py [70]) (./class_quiz.py
+[71]) [72]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 885.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 885.
  (./year11_programming.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 869.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 869.
-
-
-Package rerunfilecheck Warning: File `year11_programming.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `year11_programming.out':
-(rerunfilecheck)             Before: 6F193BD6ED38DBED0458E31AA67FEBFC;2458
-(rerunfilecheck)             After:  04577FBDC730A882D923262A9655D80A;2458.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 885.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 885.
+Package rerunfilecheck Info: File `year11_programming.out' has not changed.
+(rerunfilecheck)             Checksum: 1A7168AF40450E7751DD3CC784C9E116;2559.
  ) 
 Here is how much of TeX's memory you used:
- 35059 strings out of 480608
- 801294 string characters out of 5903630
- 1447164 words of memory out of 5000000
- 48652 multiletter control sequences out of 15000+600000
+ 35056 strings out of 480608
+ 801233 string characters out of 5903630
+ 1447167 words of memory out of 5000000
+ 48653 multiletter control sequences out of 15000+600000
  539472 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  63i,10n,98p,842b,1959s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsubsection.13.2.2} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsubsection.13.2.1} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.13.2} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.13.1} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.2} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{subsection.11.1} has been referenced but does not e
-xist, replaced by a fixed one
-
-{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}<
-/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
-usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></u
-sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
-/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/loc
-al/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/loca
-l/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/
-texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on year11_programming.pdf (71 pages, 21210450 bytes).
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
+sr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/
+local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/l
+ocal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/lo
+cal/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
+l/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on year11_programming.pdf (72 pages, 21211542 bytes).
 PDF statistics:
- 3641 PDF objects out of 4296 (max. 8388607)
+ 3642 PDF objects out of 4296 (max. 8388607)
  3069 compressed objects within 31 object streams
- 1588 named destinations out of 1728 (max. 500000)
- 518 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1584 named destinations out of 1728 (max. 500000)
+ 526 words of extra memory for PDF output out of 10000 (max. 10000000)
 
