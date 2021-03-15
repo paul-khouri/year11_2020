@@ -29,6 +29,10 @@ def play_round(w):
     current_choice = ""
     game_over = False
     game_ended = False
+    #start
+    for i in range(0, len(w)):
+        print(" _ ", end="")
+    print()
     while game_ended == False:
         current_choice = input("Please choose a letter: ->  ")
         print()
@@ -61,7 +65,7 @@ def play_round(w):
         print()
         print()
 
-word_list = ["banana", "heaven", "typhoon", "tropical", "clemency"]
+word_list = ["insane", "heaven", "typhoon", "tropical", "clemency"]
 #randomly select word and place in current word list
 count = 0
 while count < 2:
