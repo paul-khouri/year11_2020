@@ -45,7 +45,7 @@ while continue_program == True:
         print("Unfortunately you do not have enough to play any further")
         continue_program = False
     else:
-        # if they do, ask if they want to play again and end loop if they choose to quite
+        # if they do, ask if they want to play again and end loop if they choose to quit
         user_input=input("Press <Enter> to continue or quit(q)")
         if user_input == "":
             print("Playing another round")
