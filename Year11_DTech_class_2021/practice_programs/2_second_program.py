@@ -1,7 +1,7 @@
 # a hash makes a comment
 
 # these are two integer variables
-my_var_one=50
+my_var_one = 50
 my_var_two = 600
 
 
