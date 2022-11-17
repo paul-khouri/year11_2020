@@ -1,4 +1,4 @@
-for i in range(0,200):
+for i in range(0,1000):
     output = "{} : {}".format(i,chr(i))
     print(output)
   

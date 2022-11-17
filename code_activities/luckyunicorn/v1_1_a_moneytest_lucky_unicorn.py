@@ -13,7 +13,7 @@ tokens_one = ["horse", "zebra" , "donkey", "unicorn"]
 tokens_two = ["horse", "horse","zebra","zebra" , "donkey", "unicorn"]
 tokens_three = ["horse", "horse","zebra","zebra" , "donkey","donkey", "unicorn"]
 tokens_four = ["horse", "horse","zebra", "horse","zebra","zebra" , "donkey","donkey", "unicorn"]
-tokens= tokens_four
+tokens= tokens_two
 player_amount=int(input("Please enter a value between 1 and 10: -> "))
 start_amount = player_amount
 print("You have entered ${:.2f}".format(player_amount))

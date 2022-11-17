@@ -10,7 +10,35 @@ print("------ Start -------------------------------------")
 print()
 # get amount of money to play with
 tokens = ["horse", "zebra" , "donkey", "unicorn"]
-player_amount=int(input("Please enter a value between 1 and 10: -> "))
+
+# validation
+# every user entry must be checked.
+getting_money = True
+
+while getting_money == True:
+    try:
+        player_amount=int(input("Please enter a value between 1 and 10: -> "))
+    except ValueError:
+        print("You have not entered a number, please try again")
+        # go immediately to the top of the loop
+        continue
+
+
+    #test if money is not to large or small
+    if player_amount < 1 or player_amount > 10:
+        print("The money you have entered is too large or too small")
+        continue
+    else:
+        getting_money= False
+
+
+    
+
+
+
+
+player_amount =10
+
 print("You have entered ${:.2f}".format(player_amount))
 #game play
 play=""

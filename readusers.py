@@ -1,11 +1,15 @@
 
 
 
-my_file=open("user_info.txt","r")
+
 def print_out_file():
+    my_file=open("user_test.csv",mode="r", encoding='utf-8-sig')
     print("Called")
-    for txt in my_file:
-        print(txt)
+    my_list = []
+    for x in my_file:
+        print(x)
+        my_list.append(x)
+    print(my_list)
     
 
 def sign_in():
@@ -49,8 +53,11 @@ def sign_up():
         write_file.write(new_user)
         write_file.close()
         latest_file=open("user_info.txt","r")
+        s_list = []
         for txt in latest_file:
+            s_list.append(txt.split(","))
             print(txt)
+        print(s_list)
         
         
 def get_user():
@@ -71,7 +78,8 @@ def get_user():
               
 #sign_in()
 
-get_user()
+#get_user()
+print_out_file()
 
 
 

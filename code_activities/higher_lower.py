@@ -7,10 +7,12 @@ while mainLoop=="y":
     secretNumber=0
     guess=0
     count=0
+    min_num = 1
+    max_num = 100
     #get user input and validate
     getUserNameLoop="y"
     while getUserNameLoop=="y":
-        name=input("Please enter your name   ")
+        name=input("Please enter your name: ")
         if len(name)<2 or len(name)>30 or name.isalpha()!=True:
             print("Please enter a valid name")
             continue
@@ -19,10 +21,10 @@ while mainLoop=="y":
             getUserNameLoop="n"
     # welcome
     print("Hello {}, you are about to play a guessing game".format(name))
-    print("where you need to guess the secret number between 1 and 50")
-    secretNumber=random.randint(1,50)
+    print("where you need to guess the secret number between {} and {}".format(min_num, max_num))
+    secretNumber=random.randint(min_num,max_num)
     #testing help
-    print("Testing help: the secret number is {}".format(secretNumber))
+    #print("Testing help: the secret number is {}".format(secretNumber))
     ready=input("Press enter to start  ")
     #start game
     gameLoop="y"
@@ -31,12 +33,12 @@ while mainLoop=="y":
         getGuessInputLoop="y"
         while getGuessInputLoop=="y":
             try:
-                guess=int(input("Please guess the secret number between 1 and 50  "))
+                guess=int(input("Please guess the secret number between {} and {}  ".format(min_num, max_num)))
             except ValueError:
                 print("Please enter a valid integer")
                 continue
-            if guess<1 or guess>50:
-                print("Please enter a number between 1 and 50")
+            if guess<min_num or guess>max_num:
+                print("Please enter a number between 1 and 50".format(min_num, max_num))
             else:
                 # integer correctly entered
                 getGuessInputLoop="n"
