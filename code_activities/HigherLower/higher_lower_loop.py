@@ -19,7 +19,9 @@ while mainLoop=="y":
     #generate secret number
     secret_number=random.randint(MIN_NUM,MAX_NUM)
     #testing help
-    #print("Testing help: the secret number is {}".format(secretNumber))
+    print("-"*30)
+    print("Testing help: the secret number is {}".format(secret_number))
+    print("-"*30)
     ready=input("Starting new game, press enter:")
     #--------   start game
     # reset count
